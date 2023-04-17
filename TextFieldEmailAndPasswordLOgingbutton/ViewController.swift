@@ -31,12 +31,12 @@ class ViewController: UIViewController {
                                  Student(id: 2, name: "rahul", branch: "Rnw2"),
                                  Student(id: 3, name: "parth", branch: "Rnw3"),
                                  Student(id: 4, name: "ankit", branch: "Rnw4")]
-    
+    print("bjbcdb")
     
     override func viewDidLoad() {
         super.viewDidLoad()
         setup()
-        print("bjbcdb")
+      
         
     }
 
